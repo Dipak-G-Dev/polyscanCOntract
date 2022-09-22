@@ -7,8 +7,8 @@
 
 
 ## Project Setup
-- Clone Repo : https://github.com/Dipak-G-Dev/polyscanCOntract
-- cd polyscanCOntract
+- Clone Repo : https://github.com/Dipak-G-Dev/polyscanContract
+- cd polyscanContract
 - npm install (for setup backend dependency)
 - node app.js (for starting development server and starting the event listening)
 
